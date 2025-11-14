@@ -2,8 +2,6 @@
 
 Complete step-by-step guide for deploying MLOOK DTS to Hostinger using **FileZilla FTP ONLY** (no SSH access required).
 
-> ⚠️ **IMPORTANT:** This guide is for **FTP-only deployment** using FileZilla. No SSH or terminal access required.
-
 **Website:** https://dts4b.fusiontechph.com  
 **FTP Host:** ftp://141.136.43.69  
 **FTP Username:** u475920781.dts4b  
